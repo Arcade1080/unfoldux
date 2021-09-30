@@ -4,10 +4,16 @@
 @tailwind utilities;
 
 body {
+  color: @apply text-uuxblack-900;
   background-color: #fbfbfb;
-  @apply text-uuxblack-900;
 }
 
 .wrapperPadding {
-  @apply px-2 md:px-4;
+  @apply px-3 py-2 md:p-6;
+}
+
+/* Typography */
+
+.display-heading {
+  @apply text-xl sm:text-2xl md:text-4xl xl:text-4xl xl:leading-tight font-bold text-uuxblack-900;
 }

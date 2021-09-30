@@ -1,9 +1,10 @@
 import { Page } from '../components/Page';
+import { Stage } from '../components/Stage';
 
 export default function Home() {
   return (
     <Page>
-      <div>Content Homepage</div>
+      <Stage />
     </Page>
   );
 }

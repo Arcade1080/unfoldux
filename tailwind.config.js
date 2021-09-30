@@ -9,6 +9,9 @@ module.exports = {
       container: {
         center: true,
         padding: '1rem',
+        screens: {
+          xl: '1350px',
+        },
       },
       fontFamily: {
         sans: ['Karla', ...defaultTheme.fontFamily.sans],
