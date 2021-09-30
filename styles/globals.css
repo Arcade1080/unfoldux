@@ -5,6 +5,7 @@
 
 body {
   background-color: #fbfbfb;
+  @apply text-uuxblack-900;
 }
 
 .wrapperPadding {

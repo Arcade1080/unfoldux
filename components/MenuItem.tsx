@@ -15,7 +15,7 @@ export const MenuItem: FunctionComponent<MenuItemProps> = ({
   return (
     <Link href={path}>
       <a
-        className={`text-xl p-2 mx-1 md:mx-5   ${
+        className={`text-xl p-2 mx-1 md:mx-5 text-uuxblack-700 hover:text-uuxblack-900 ${
           isActive ? 'font-bold' : 'font-normal'
         }`}
       >

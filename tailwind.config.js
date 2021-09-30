@@ -13,6 +13,12 @@ module.exports = {
       fontFamily: {
         sans: ['Karla', ...defaultTheme.fontFamily.sans],
       },
+      colors: {
+        uuxblack: {
+          700: '#3F3F3F',
+          900: '#111111',
+        },
+      },
     },
   },
   variants: {
