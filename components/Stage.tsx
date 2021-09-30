@@ -4,7 +4,7 @@ import Image from 'next/image';
 export const Stage = () => {
   return (
     <div className="relative py-10  flex items-center  ">
-      <div className="display-heading z-10 md:w-11/12 lg:w-10/12 md:pt-16">
+      <div className="display-heading z-10 md:w-11/12 lg:w-10/12 md:pt-20">
         Hallo, <br /> ich bin Julian Scheele. <br /> <br /> Als UX/UI Designer,
         zertifizierter Product Owner und Frontend Entwickler treibe ich die
         menschzentrierte Entwicklung digitaler Produkte voran.
