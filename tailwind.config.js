@@ -11,6 +11,11 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
+      colors: {
+        unfoldgray: {
+          950: '#1a337b',
+        },
+      },
     },
   },
   variants: {
