@@ -3,9 +3,9 @@ import Header from './Header';
 
 export default function Layout({ children }) {
   return (
-    <div className="xl:container">
+    <div className="2xl:container  ">
       <Header />
-      <div className="">{children}</div>
+      <div className="wrapperPadding">{children}</div>
       <Footer />
     </div>
   );

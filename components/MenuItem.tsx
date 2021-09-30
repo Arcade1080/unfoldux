@@ -14,7 +14,11 @@ export const MenuItem: FunctionComponent<MenuItemProps> = ({
 }) => {
   return (
     <Link href={path}>
-      <a className={`${isActive ? 'text-red-400' : 'text-yellow-400'}`}>
+      <a
+        className={`text-xl p-2 mx-1   ${
+          isActive ? 'font-bold' : 'font-normal'
+        }`}
+      >
         {label}
       </a>
     </Link>
