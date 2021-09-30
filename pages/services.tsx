@@ -1,9 +1,9 @@
 import { Page } from '../components/Page';
 
-export default function Home() {
+export default function Services() {
   return (
     <Page>
-      <div>Content Homepage</div>
+      <div>Content Services</div>
     </Page>
   );
 }
