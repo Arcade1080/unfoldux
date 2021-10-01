@@ -21,7 +21,7 @@ body {
 /* Typography */
 
 .display-heading {
-  @apply leading-normal text-xl sm:text-2xl md:text-4xl md:leading-normal font-bold text-uuxblack-900;
+  @apply leading-normal text-xl sm:text-2xl md:text-4xl md:leading-snug font-bold text-uuxblack-900;
 }
 
 h2 {
