@@ -9,7 +9,7 @@ body {
 }
 
 .wrapper {
-  @apply xl:container px-4 md:px-10;
+  @apply xl:container xl:px-8 px-4 md:px-10;
 }
 
 @media screen and (min-width: 768px) {
@@ -25,7 +25,7 @@ body {
 }
 
 h2 {
-  @apply text-xl md:text-3xl font-bold;
+  @apply text-2xl md:text-3xl font-bold;
 }
 
 .copy {
