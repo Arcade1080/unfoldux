@@ -8,8 +8,8 @@ body {
   background-color: #fbfbfb;
 }
 
-.wrapperPadding {
-  @apply px-3 py-2 md:p-6;
+.wrapper {
+  @apply xl:container px-4 md:px-5;
 }
 
 @media screen and (min-width: 768px) {

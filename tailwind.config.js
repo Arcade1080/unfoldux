@@ -6,6 +6,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      backgroundImage: {
+        'footer-texture': "url('/footer-bg.svg')",
+      },
       container: {
         center: true,
         padding: '1rem',
@@ -20,6 +23,7 @@ module.exports = {
         uuxblack: {
           700: '#3F3F3F',
           900: '#111111',
+          950: '#282828',
         },
       },
     },
