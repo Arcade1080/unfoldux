@@ -7,9 +7,11 @@ export const Menu = () => {
   const { pathname } = useRouter();
   return (
     <div className="">
-      {MENU_ITEMS.map(({ path, label }) => {
+      {MENU_ITEMS.map(({ path, label }, key) => {
         const isActive = path === pathname;
-        return <MenuItem isActive={isActive} label={label} path={path} />;
+        return (
+          <MenuItem key={key} isActive={isActive} label={label} path={path} />
+        );
       })}
     </div>
   );

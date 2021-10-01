@@ -1,3 +1,6 @@
+import Icon from "./components/Icon";
+import { Icons } from "./types";
+
 export const MENU_ITEMS = [
   {
     label: 'Services',
@@ -25,5 +28,28 @@ export const SERVICES_LINKS = [
   {
     label: 'Conversion Optimierung und A/B Testing',
     path: '/services#cro',
+  },
+];
+
+export const SOCIAL_MEDIA_LINKS = [
+  {
+    label: 'linkedIn',
+    icon: Icons.linkedIn,
+    path: 'https://www.linkedin.com/in/julian-scheele-53291b95/',
+  },
+  {
+    label: 'Github',
+    icon: Icons.github,
+    path: 'https://github.com/Arcade1080',
+  },
+  {
+    label: 'Twitter',
+    icon: Icons.twitter,
+    path: 'https://twitter.com/Arcade20000',
+  },
+  {
+    label: 'Spotify',
+    icon: Icons.spotify,
+    path: 'https://open.spotify.com/playlist/3mLwNIbr9MEIRRz4ZhetQq?si=2de7436e682b4342',
   },
 ];
