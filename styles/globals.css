@@ -21,11 +21,11 @@ body {
 /* Typography */
 
 .display-heading {
-  @apply text-xl sm:text-2xl md:text-4xl xl:text-4xl md:leading-tight font-bold text-uuxblack-900;
+  @apply leading-normal text-xl sm:text-2xl md:text-4xl md:leading-normal font-bold text-uuxblack-900;
 }
 
 h2 {
-  @apply text-3xl font-bold;
+  @apply text-xl md:text-3xl font-bold;
 }
 
 .copy {
@@ -38,8 +38,10 @@ h2 {
 
 .anchor-link {
   position: relative;
-  outline: 2px solid transparent;
+  outline: 4px solid transparent;
   outline-offset: 2px;
+  top: 12px;
+  @apply py-2;
 }
 
 .anchor-link:before {
@@ -48,7 +50,7 @@ h2 {
   border-bottom-width: 2px;
   height: 0;
   position: absolute;
-  bottom: -20%;
+  bottom: 0%;
   width: 100%;
   transition-property: width;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);

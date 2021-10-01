@@ -17,10 +17,12 @@ export const AnchorLink: FunctionComponent<AnchorLinkProps> = ({
   const iconName = isExternal ? Icons.arrowRight : Icons.arrowRight;
   return (
     <Link href={path}>
-      <a className={`text-xl inline-block anchor-link pr-8 relative font-bold`}>
+      <a
+        className={`text-lg md:text-xl block md:inline-block anchor-link pr-8 relative font-bold`}
+      >
         <span>{label}</span>
-        <span className="absolute anchor-icn right-0 top-0">
-          <Icon name={iconName} />{' '}
+        <span className="absolute anchor-icn right-0">
+          <Icon name={iconName} />
         </span>
       </a>
     </Link>

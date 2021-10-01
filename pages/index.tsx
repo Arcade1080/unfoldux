@@ -13,7 +13,7 @@ export default function Home() {
         mit Business-Zielen in Einklang zu bringen.
       </p>
 
-      <h2 className="mb-8">Leistungen</h2>
+      <h2 className=" mb-4 md:mb-6">Leistungen</h2>
       <ServicesLinks />
     </Page>
   );
