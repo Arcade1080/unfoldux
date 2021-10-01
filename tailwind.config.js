@@ -21,6 +21,7 @@ module.exports = {
       },
       colors: {
         uuxblack: {
+          600: '#1F1F1F',
           700: '#3F3F3F',
           900: '#111111',
           950: '#282828',

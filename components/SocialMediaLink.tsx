@@ -22,7 +22,7 @@ export const SocialMediaLink: FunctionComponent<SocialMediaLinkProps> = ({
       title={label}
     >
       <span className="">
-        <Icon color="text-white" name={icon} />
+        <Icon size="w-7 h-7" color="text-white" name={icon} />
       </span>
     </a>
   );
