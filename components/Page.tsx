@@ -5,7 +5,6 @@ import PageTitle from './PageTitle';
 type PageProps = {
   title?: string;
 };
-
 export const Page: FunctionComponent<PageProps> = ({ title, children }) => {
   return (
     <Layout>

@@ -10,7 +10,7 @@ module.exports = {
         center: true,
         padding: '1rem',
         screens: {
-          xl: '1350px',
+          xl: '1300px',
         },
       },
       fontFamily: {
