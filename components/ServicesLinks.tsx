@@ -6,9 +6,9 @@ export const ServicesLinks = () => {
   return (
     <>
       <ul>
-        {SERVICES_LINKS.map(({ ...linkProps }) => {
+        {SERVICES_LINKS.map(({ ...linkProps }, key) => {
           return (
-            <li className="mb-2">
+            <li key={key} className="mb-2">
               <AnchorLink {...linkProps} />
             </li>
           );
