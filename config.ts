@@ -53,3 +53,22 @@ export const SOCIAL_MEDIA_LINKS = [
     path: 'https://open.spotify.com/playlist/3mLwNIbr9MEIRRz4ZhetQq?si=2de7436e682b4342',
   },
 ];
+
+
+export const CERTIFICATION_LINKS = [
+  {
+    target: "https://www.certible.com/de/verify/029641b1eeaf806458fab0d52f81c248",
+    logo: "/uxqb_cert.png",
+    label: "UXQB Certified Professional for User Experience"
+  },
+  {
+    target: "https://www.scrum.org/certificates/650555",
+    logo: "/pspo_cert.png",
+    label: "Professional Scrum Product Owner I"
+  },
+  {
+    target: "https://www.germanupa.de/experten/julian-scheele",
+    logo: "/upa_cert.png",
+    label: "German UPA Member"
+  },
+]
