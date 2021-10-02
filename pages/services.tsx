@@ -8,11 +8,11 @@ export default function Services() {
       <div className="mb-20 md:mb-32">
         <ServicesLinks />
       </div>
-      <div className="mb-12 md:mb-24">
-        <h2 id="ux" className="mb-8">
+      <div className="section">
+        <h2 id="uxdesign" className="mb-8">
           UX / UI Design und Strategie
         </h2>
-        <p className="copy content-block  mb-4">
+        <p className="copy content-block mb-4">
           Eine gelungene User Experience orientiert sich direkt an den Aufgaben,
           Prozessen und Bedürfnissen der Nutzer:innen. Dadurch entstehen
           intuitive Softwareprodukte, die akzeptiert werden, Spaß machen, und
@@ -42,8 +42,8 @@ export default function Services() {
         </ul>
       </div>
 
-      <div className="mb-12 md:mb-32">
-        <h2 id="agile" className="mb-8">
+      <div className="section">
+        <h2 id="agile" className="">
           Agiles Projektmanagment und Product Ownership
         </h2>
         <p className="copy content-block  mb-4">
@@ -74,8 +74,8 @@ export default function Services() {
           <li>Stakeholder Management</li>
         </ul>
       </div>
-      <div className="mb-12 md:mb-32">
-        <h2 id="uxe" className="mb-8">
+      <div className="section">
+        <h2 id="uxe" className="">
           UX Engineering und Frontend Entwicklung{' '}
         </h2>
         <p className="copy content-block  mb-4">
@@ -108,8 +108,8 @@ export default function Services() {
           <li>Requirements Engineering</li>
         </ul>
       </div>
-      <div className=" ">
-        <h2 id="cro" className="mb-8">
+      <div className="section">
+        <h2 id="cro" className="h2">
           Conversion Optimierung und A/B Testing
         </h2>
         <p className="copy content-block  mb-4">
