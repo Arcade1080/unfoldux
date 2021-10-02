@@ -3,6 +3,7 @@ import FooterLink from './FooterLink';
 import { Logo } from './Logo';
 import Link from 'next/link';
 import { SocialMediaLinks } from './SocialMediaLinks';
+import { CONTACT_EMAIL } from '../config';
 
 export default function Footer() {
   return (
@@ -16,7 +17,7 @@ export default function Footer() {
               </div>
               <div className="mb-11">
                 <FooterLink
-                  label={process.env.NEXT_PUBLIC_MAIL}
+                  label={CONTACT_EMAIL}
                   path={`mailto:${process.env.NEXT_PUBLIC_MAIL}`}
                 />
               </div>

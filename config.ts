@@ -1,6 +1,9 @@
 import Icon from "./components/Icon";
 import { Icons } from "./types";
 
+
+export const CONTACT_EMAIL = "hi@unfoldux.de";
+
 export const MENU_ITEMS = [
   {
     label: 'Services',
