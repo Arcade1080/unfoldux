@@ -18,7 +18,7 @@ export default function Footer() {
               <div className="mb-11">
                 <FooterLink
                   label={CONTACT_EMAIL}
-                  path={`mailto:${process.env.NEXT_PUBLIC_MAIL}`}
+                  path={`mailto:${CONTACT_EMAIL}`}
                 />
               </div>
               <SocialMediaLinks />
