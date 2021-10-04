@@ -29,7 +29,7 @@ export default function Footer() {
       </div>
       <div className="bg-uuxblack-600">
         <div className="wrapper">
-          <div className="py-4 text-white flex gap-3 text-sm">
+          <div className="py-4 text-white flex gap-5 text-sm">
             <div> &copy; 2021 unfoldux.de </div>
             <div>
               <Link href="/datenschutz">
