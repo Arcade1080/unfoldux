@@ -21,7 +21,7 @@ export const SERVICES_LINKS = [
     path: '/services#uxdesign',
   },
   {
-    label: 'Agiles Projektmanagment und Product Ownership',
+    label: 'Agiles Projektmanagement und Product Ownership',
     path: '/services#agile',
   },
   {
