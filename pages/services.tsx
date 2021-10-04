@@ -10,7 +10,7 @@ export default function Services() {
       </div>
       <div className="section">
         <h2 id="uxdesign" className="mb-8">
-          UX / UI Design und Strategie
+          UX / UI Design und UX Beratung
         </h2>
         <p className="copy content-block mb-4">
           Eine gelungene User Experience orientiert sich direkt an den Aufgaben,
