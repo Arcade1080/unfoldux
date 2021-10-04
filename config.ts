@@ -43,7 +43,7 @@ export const SOCIAL_MEDIA_LINKS = [
   {
     label: 'Github',
     icon: Icons.github,
-    path: 'https://github.com/Arcade1080',
+    path: 'https://github.com/Arcade1080/unfoldux',
   },
   {
     label: 'Twitter',
