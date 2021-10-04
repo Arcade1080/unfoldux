@@ -13,6 +13,7 @@ export default function Privacy() {
         Ausf&uuml;hrliche Informationen zum Thema Datenschutz entnehmen Sie
         unserer unter diesem Text aufgef&uuml;hrten Datenschutzerkl&auml;rung.
       </p>
+      <p className="copy content-block">&nbsp;</p>
       <h3>Datenerfassung auf dieser Website</h3>{' '}
       <h4>
         Wer ist verantwortlich f&uuml;r die Datenerfassung auf dieser Website?
@@ -36,12 +37,14 @@ export default function Privacy() {
         Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt
         automatisch, sobald Sie diese Website betreten.
       </p>{' '}
+      <p className="copy content-block">&nbsp;</p>
       <h4>Wof&uuml;r nutzen wir Ihre Daten?</h4>{' '}
       <p>
         Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der
         Website zu gew&auml;hrleisten. Andere Daten k&ouml;nnen zur Analyse
         Ihres Nutzerverhaltens verwendet werden.
       </p>{' '}
+      <p className="copy content-block">&nbsp;</p>
       <h4>Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4>{' '}
       <p>
         Sie haben jederzeit das Recht, unentgeltlich Auskunft &uuml;ber
@@ -69,6 +72,8 @@ export default function Privacy() {
         Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der
         folgenden Datenschutzerkl&auml;rung.
       </p>
+      <p className="copy content-block">&nbsp;</p>
+      <p className="copy content-block">&nbsp;</p>
       <h2>2. Hosting</h2>
       <h3>Externes Hosting</h3>{' '}
       <p>
@@ -93,6 +98,8 @@ export default function Privacy() {
       </p>{' '}
       <p>Wir setzen folgenden Hoster ein:</p>
       <p>vercel</p>
+      <p className="copy content-block">&nbsp;</p>
+      <p className="copy content-block">&nbsp;</p>
       <h2>3. Allgemeine Hinweise und Pflicht&shy;informationen</h2>
       <h3>Datenschutz</h3>{' '}
       <p>
@@ -115,6 +122,7 @@ export default function Privacy() {
         aufweisen kann. Ein l&uuml;ckenloser Schutz der Daten vor dem Zugriff
         durch Dritte ist nicht m&ouml;glich.
       </p>
+      <p className="copy content-block">&nbsp;</p>
       <h3>Hinweis zur verantwortlichen Stelle</h3>{' '}
       <p>
         Die verantwortliche Stelle f&uuml;r die Datenverarbeitung auf dieser
@@ -136,6 +144,7 @@ export default function Privacy() {
         der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen,
         E-Mail-Adressen o. &Auml;.) entscheidet.
       </p>
+      <p className="copy content-block">&nbsp;</p>
       <h3>Speicherdauer</h3>{' '}
       <p>
         Soweit innerhalb dieser Datenschutzerkl&auml;rung keine speziellere
@@ -149,7 +158,10 @@ export default function Privacy() {
         letztgenannten Fall erfolgt die L&ouml;schung nach Fortfall dieser
         Gr&uuml;nde.
       </p>
-      <h3>Hinweis zur Datenweitergabe in die USA und sonstige Drittstaaten</h3>{' '}
+      <p className="copy content-block">&nbsp;</p>
+      <h3>
+        Hinweis zur Datenweitergabe in die USA und sonstige Drittstaaten
+      </h3>{' '}
       <p>
         Wir verwenden unter anderem Tools von Unternehmen mit Sitz in den USA
         oder sonstigen datenschutzrechtlich nicht sicheren Drittstaaten. Wenn
@@ -165,6 +177,7 @@ export default function Privacy() {
         verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese
         Verarbeitungst&auml;tigkeiten keinen Einfluss.
       </p>
+      <p className="copy content-block">&nbsp;</p>
       <h3>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3>{' '}
       <p>
         Viele Datenverarbeitungsvorg&auml;nge sind nur mit Ihrer
@@ -173,6 +186,7 @@ export default function Privacy() {
         Rechtm&auml;&szlig;igkeit der bis zum Widerruf erfolgten
         Datenverarbeitung bleibt vom Widerruf unber&uuml;hrt.
       </p>
+      <p className="copy content-block">&nbsp;</p>
       <h3>
         Widerspruchsrecht gegen die Datenerhebung in besonderen F&auml;llen
         sowie gegen Direktwerbung (Art. 21 DSGVO)
@@ -246,6 +260,7 @@ export default function Privacy() {
         L&ouml;schung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema
         personenbezogene Daten k&ouml;nnen Sie sich jederzeit an uns wenden.
       </p>
+      <p className="copy content-block">&nbsp;</p>
       <h3>Recht auf Einschr&auml;nkung der Verarbeitung</h3>{' '}
       <p>
         Sie haben das Recht, die Einschr&auml;nkung der Verarbeitung Ihrer
@@ -292,6 +307,8 @@ export default function Privacy() {
         wichtigen &ouml;ffentlichen Interesses der Europ&auml;ischen Union oder
         eines Mitgliedstaats verarbeitet werden.
       </p>
+      <p className="copy content-block">&nbsp;</p>
+      <p className="copy content-block">&nbsp;</p>
       <h2>4. Datenerfassung auf dieser Website</h2>
       <h3>Cookies</h3>{' '}
       <p>
@@ -376,6 +393,8 @@ export default function Privacy() {
         insbesondere gesetzliche Aufbewahrungsfristen &ndash; bleiben
         unber&uuml;hrt.
       </p>
+      <p className="copy content-block">&nbsp;</p>
+      <p className="copy content-block">&nbsp;</p>
       <h2>5. Plugins und Tools</h2>
       <h3>Google Web Fonts</h3>{' '}
       <p>
