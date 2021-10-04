@@ -1,5 +1,7 @@
 import Head from 'next/head';
 import '../styles/globals.css';
+import { DefaultSeo } from 'next-seo';
+import SEO from '../seo.config';
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -7,8 +9,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#000000" />
-        <meta name="description" content="Official website for... something." />
+
         <link
           href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap"
           rel="stylesheet"
@@ -100,6 +101,7 @@ function MyApp({ Component, pageProps }) {
           content="mstile-310x310.png"
         />
       </Head>
+      <DefaultSeo {...SEO} />
       <Component {...pageProps} />
     </>
   );
