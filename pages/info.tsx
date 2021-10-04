@@ -6,9 +6,9 @@ import { AnchorLink } from '../components/AnchorLink';
 export default function Info() {
   return (
     <Page title="Info">
-      <div className="flex mb-12 md:mb-20 flex-col-reverse  md:flex-row md:gap-24">
+      <div className="flex mb-20 md:mb-20 flex-col-reverse  md:flex-row md:gap-24">
         <div className="content-block">
-          <p className="copy mb-12">
+          <p className="copy mb-4 md:mb-12">
             Hallo! Ich bin Julian. Mich begeistern Softwareprodukte, die echte
             Probleme lösen und einen positiven Einfluß auf Menschen, Unternehmen
             und Umwelt haben. In den letzten Jahren arbeitete ich u.a. für
