@@ -14,9 +14,9 @@ export const Logo: FunctionComponent<LogoProps> = ({ light }) => {
       <div className="cursor-pointer flex items-center">
         <Image
           src={logoPath}
-          alt="Unfold UX - UX Design"
-          width={94}
-          height={59}
+          alt="Unfold UX - UX/UI Design"
+          width={132}
+          height={38}
         />
       </div>
     </Link>
