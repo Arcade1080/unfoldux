@@ -6,7 +6,7 @@ import { useRouter } from 'next/router';
 export const Menu = () => {
   const { pathname } = useRouter();
   return (
-    <div className="">
+    <div className="-mr-3 sm:mr-0">
       {MENU_ITEMS.map(({ path, label }, key) => {
         const isActive = path === pathname;
         return (
