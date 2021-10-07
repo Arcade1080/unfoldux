@@ -29,7 +29,7 @@ export const SERVICES_LINKS = [
     path: '/services#uxe',
   },
   {
-    label: 'Conversion Optimierung und A/B Testing',
+    label: 'Conversion Rate Optimierung und A/B Testing',
     path: '/services#cro',
   },
 ];

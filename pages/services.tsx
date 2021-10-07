@@ -34,7 +34,6 @@ export default function Services() {
         <ul className="copy list-disc pl-5">
           <li>Menschzentrierte Gestaltung nach ISO 9241 </li>
           <li>Interaction Design</li>
-          <li>Design Sprints</li>
           <li>App- und Webapp-Design</li>
           <li>User Research</li>
           <li>Usability Testing </li>
@@ -50,14 +49,16 @@ export default function Services() {
           Softwareentwicklung erfolgt im Kontext von unbeständigen
           Marktbedingungen und wechselnden Kundenvorlieben. Besonders bei
           Start-ups mit völlig neuen Geschäftsfeldern sind zu Beginn weder
-          Projektumfang noch Kosten verlässlich planbar. Agile Methoden wie
-          Scrum minimieren das Projektrisiko. Im Kern erfolgt dies einerseits
-          durch fest verankerte Feedbackschleifen, die Auskunft darüber geben,
-          ob das Produkt noch auf Kurs mit Kunden- und Marktanforderungen ist.
-          Andererseits holt agiles Projektmanagement Projektbeteiligte aus ihren
-          funktionalen Silos und formt sie zu interdisziplinären, selbst
-          organisierten Teams, die Probleme kreativ lösen und schnell auf
-          Veränderungen reagieren können.
+          Projektumfang noch Kosten verlässlich planbar.
+        </p>
+        <p className="copy content-block  mb-4">
+          Agile Methoden wie Scrum minimieren das Projektrisiko. Im Kern erfolgt
+          dies einerseits durch fest verankerte Feedbackschleifen, die Auskunft
+          darüber geben, ob das Produkt noch auf Kurs mit Kunden- und
+          Marktanforderungen ist. Andererseits holt agiles Projektmanagement
+          Projektbeteiligte aus ihren funktionalen Silos und formt sie zu
+          interdisziplinären, selbst organisierten Teams, die Probleme kreativ
+          lösen und schnell auf Veränderungen reagieren können.
         </p>
         <p className="copy content-block  mb-4">
           Ich bin überzeugt von agiler Produktentwicklung und unterstütze als
@@ -66,7 +67,7 @@ export default function Services() {
         </p>
 
         <ul className="copy list-disc pl-5">
-          <li>Agiles Projektmanagement nach SCRUM </li>
+          <li>Agiles Projektmanagement nach Scrum </li>
           <li>Product Ownership</li>
           <li>Sprint- und Release Planung</li>
           <li>Backlog Management</li>
@@ -79,22 +80,24 @@ export default function Services() {
           UX Engineering und Frontend Entwicklung{' '}
         </h2>
         <p className="copy content-block  mb-4">
-          Design- und Entwicklungsabteilung haben zusammen den größten Einfluß
+          Design- und Entwicklungsabteilung haben zusammen den größten Einfluss
           auf die tatsächliche Umsetzung von digitalen Produkten. Damit teure
           Revisionen vermieden werden, müssen diese Fachbereiche in engen
           Iterationen zusammenarbeiten und ihre Arbeit kontinuierlich
           gegenseitig reviewen. So können technische Einschränkungen vom UX Team
           frühzeitig in der Konzeption antizipiert werden. Umgekehrt sollten
           Entwickler:innen zu Kontext und möglichen Edge Cases bestimmter
-          Funktionen informiert sein. UX Engineering verbindet Technik-Know-How
-          mit UX-Methodik und effektiviert den Austausch zwischen Design und
-          Entwicklung. Dadurch werden sowohl Missverständnisse und überflüssige
-          Feedbackschleifen reduziert als auch das gemeinsame Produkt- und
-          Zielverständnis gestärkt.
+          Funktionen informiert sein.
         </p>
         <p className="copy content-block  mb-4">
-          Ich verbessere die Zusammenarbeit von UX- und Entwicklungsteams durch
-          folgende Leistungen:
+          UX Engineering verbindet Technik-Know-How mit UX-Methodik und
+          effektiviert den Austausch zwischen Design und Entwicklung. Dadurch
+          werden sowohl Missverständnisse und überflüssige Feedbackschleifen
+          reduziert als auch das gemeinsame Produkt- und Zielverständnis
+          gestärkt.
+        </p>
+        <p className="copy content-block  mb-4">
+          Ich verbessere die Zusammenarbeit von UX- und Entwicklungsteams durch:
         </p>
 
         <ul className="copy list-disc pl-5">
@@ -110,27 +113,29 @@ export default function Services() {
       </div>
       <div className="section">
         <h2 id="cro" className="h2">
-          Conversion Optimierung und A/B Testing
+          Conversion Rate Optimierung und A/B Testing
         </h2>
         <p className="copy content-block  mb-4">
-          Conversion Optimierung beschäftigt sich mit der Frage, wie effektiv
-          ein Online-Shop, eine Website oder eine App das Verhalten der
+          Conversion Rate Optimierung (CRO) beschäftigt sich mit der Frage, wie
+          effektiv ein Online-Shop, eine Website oder eine App das Verhalten der
           Nutzer:innen in Richtung einer gewünschten Aktion verändern kann. Wird
           die gewünschte Aktion ausgeführt, zählt das als Conversion. Das kann
           im Kontext von Online-Shops ein abgeschlossener Bestellvorgang sein
           oder aber andere Aktionen, wie die Anmeldung zu einem Newsletter.
-          Conversion Optimierung ist ein systematischer Prozess, in dem Methoden
-          aus UX, Konsumpsychologie, UI Design und Webanalytics zur Anwendung
-          kommen. Typischerweise werden zunächst bestehende Schwachstellen
-          identifiziert und Optimierungskonzepte abgeleitet. Im nächsten Schritt
-          wird die Effektivität der Optimierungen mit Hilfe von A / B Tests
-          geprüft. Die gewonnenen Erkenntnisse dienen als Lernmaterial und sind
-          häufig die Grundlage für weitere Tests.
         </p>
         <p className="copy content-block  mb-4">
-          Ich unterstütze Betreiber:innen von Online-Shops und Apps und
+          CRO ist ein systematischer Prozess, in dem Methoden aus UX,
+          Konsumpsychologie, UI Design und Webanalytics zur Anwendung kommen.
+          Typischerweise werden zunächst bestehende Schwachstellen identifiziert
+          und Optimierungskonzepte abgeleitet. Im nächsten Schritt wird die
+          Effektivität der Optimierungen mit Hilfe von A / B Tests geprüft. Die
+          gewonnenen Erkenntnisse dienen als Lernmaterial und sind häufig die
+          Grundlage für weitere Tests.
+        </p>
+        <p className="copy content-block  mb-4">
+          Ich unterstütze Betreiber:innen von Online-Shops, Apps und
           Webplattformen bei der Umsetzung einer wirksamen Conversion Strategie
-          durch folgende Leistungen:
+          durch
         </p>
 
         <ul className="copy list-disc pl-5">
