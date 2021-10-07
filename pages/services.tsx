@@ -62,8 +62,8 @@ export default function Services() {
         </p>
         <p className="copy content-block  mb-4">
           Ich bin überzeugt von agiler Produktentwicklung und unterstütze als
-          zertifizierter Produkt Owner mittelständige Unternehmen und Start-ups
-          mit folgenden Leistungen:
+          zertifizierter Produkt Owner mittelständische Unternehmen und
+          Start-ups mit folgenden Leistungen:
         </p>
 
         <ul className="copy list-disc pl-5">
