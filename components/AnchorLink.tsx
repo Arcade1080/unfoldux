@@ -23,7 +23,9 @@ export const AnchorLink: FunctionComponent<AnchorLinkProps> = ({
         className={`text-lg md:text-xl block md:inline-block anchor-link pr-8 relative font-bold ${styles}`}
       >
         <span>{label}</span>
-        <span className="absolute anchor-icn right-0">
+        <span
+          className={`absolute top-2 right-0 ${isExternal ? '-rotate-45' : ''}`}
+        >
           <Icon name={iconName} />
         </span>
       </a>

@@ -135,7 +135,7 @@ export default function Services() {
         <p className="copy content-block  mb-4">
           Ich unterstütze Betreiber:innen von Online-Shops, Apps und
           Webplattformen bei der Umsetzung einer wirksamen Conversion Strategie
-          durch
+          durch:
         </p>
 
         <ul className="copy list-disc pl-5">
