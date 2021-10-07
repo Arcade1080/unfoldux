@@ -25,7 +25,7 @@ export default function Services() {
         </p>
         <p className="copy content-block  mb-4">
           Als zertifizierter Professional für Usability und User Experience
-          (German UPA, UXQB) unterstütze ich Start-ups und mittelständige
+          (German UPA, UXQB) unterstütze ich Start-ups und mittelständische
           Unternehmen dabei, den Prozess der menschzentrierten Gestaltung in
           allen Phasen strategisch und gewinnbringend umzusetzen. Zu meinen
           Leistungen zählen:
