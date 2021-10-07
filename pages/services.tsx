@@ -128,8 +128,8 @@ export default function Services() {
           Konsumpsychologie, UI Design und Webanalytics zur Anwendung kommen.
           Typischerweise werden zunächst bestehende Schwachstellen identifiziert
           und Optimierungskonzepte abgeleitet. Im nächsten Schritt wird die
-          Effektivität der Optimierungen mit Hilfe von A / B Tests geprüft. Die
-          gewonnenen Erkenntnisse dienen als Lernmaterial und sind häufig die
+          Effektivität der Optimierungen mit Hilfe von A/B Tests geprüft. Die
+          gewonnenen Erkenntnisse dienen als Lernmaterial und bilden häufig die
           Grundlage für weitere Tests.
         </p>
         <p className="copy content-block  mb-4">
