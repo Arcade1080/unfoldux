@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="pt-20 pb-10 md:pt-28 md:pb-20 flex flex-col sm:flex-row  justify-between">
             <div className="mb-12">
               <div className="text-bold text-lg md:text-xl md:mb-3">
-                Kontakt aufnehmen
+                Einfach schreiben.
               </div>
               <div className="mb-11">
                 <FooterLink

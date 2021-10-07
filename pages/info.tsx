@@ -8,18 +8,34 @@ export default function Info() {
     <Page title="Info">
       <div className="flex mb-20 md:mb-20 flex-col-reverse  md:flex-row md:gap-24">
         <div className="content-block">
-          <p className="copy mb-4 md:mb-12">
+          <p className="copy mb-4">
             Hallo! Ich bin Julian. Mich begeistern Softwareprodukte, die echte
-            Probleme lösen und einen positiven Einfluß auf Menschen, Unternehmen
-            und Umwelt haben. In den letzten Jahren arbeitete ich u.a. für
-            Unternehmen und Start-ups aus den Bereichen Fashion, Baugewerbe,
-            Games, Food, DIY und Retail.
+            Probleme lösen und einen positiven Einfluss auf Menschen,
+            Unternehmen und Umwelt haben.
           </p>
-          <div>
+          <p className="copy mb-4">
+            Wie schafft man es, dass Software Spaß macht, leicht verständlich
+            ist und die Arbeit erleichtert? Kann man Technologie so einsetzten,
+            dass sie das Leben ihrer Nutzer:innen verbessert? Wie können
+            Unternehmen durch gute User Experience ihre Kunden besser verstehen
+            und nachhaltig wachsen? Diese Fragen treiben mich an.
+          </p>
+          <p className="copy mb-4">
+            Ich fühle mich in agilen Teams zuhause, lerne gerne mit und von
+            anderen und schätze konstruktive Kommunikation. In den letzten
+            Jahren arbeitete ich u.a. für Unternehmen und Start-ups aus den
+            Bereichen eCommerce, Fashion, Baugewerbe, Kultur, Food und Games.
+          </p>
+          <p className="copy mb-4">
+            Schreiben Sie mir. Ich berate Sie gerne zu komplexen UX Fragen oder
+            verbessere einen besteheden Teil Ihres Produktes. Gerne sende ich
+            Ihnen eine detailliertes Projektportfolio zu.
+          </p>
+          <div className="mb-20">
             <AnchorLink
               path="mailto:hi@unfoldux.de?subject=Anfrage Projektportfolio"
               isExternal
-              label="Detailiertes Projektportfolio anfragen"
+              label="Detailliertes Projektportfolio anfragen"
             />
           </div>
         </div>

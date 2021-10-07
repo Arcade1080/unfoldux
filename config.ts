@@ -17,7 +17,7 @@ export const MENU_ITEMS = [
 
 export const SERVICES_LINKS = [
   {
-    label: 'UX / UI Design und Strategie',
+    label: 'UX/UI Design und UX Beratung',
     path: '/services#uxdesign',
   },
   {
