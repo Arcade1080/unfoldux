@@ -17,7 +17,7 @@ export default function Services() {
           Prozessen und Bedürfnissen der Nutzer:innen. Dadurch entstehen
           intuitive Softwareprodukte, die akzeptiert werden, Spaß machen, und
           Arbeit nicht erzeugen, sondern erleichtern. UX Design verleiht
-          komplexen B2B Anwendungen Fokus und befähigt Nutzer*innen ein Produkt
+          komplexen B2B Anwendungen Fokus und befähigt Nutzer:innen ein Produkt
           eigenständig zu erlernen. Aus unternehmerischer Sicht reduziert eine
           menschzentrierte Gestaltung die Entwicklungskosten und das
           Projektrisiko, weil Lösungsansätze frühzeitig durch Stakeholder
