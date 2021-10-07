@@ -15,7 +15,7 @@ export default function Info() {
           </p>
           <p className="copy mb-4">
             Wie schafft man es, dass Software Spaß macht, leicht verständlich
-            ist und die Arbeit erleichtert? Kann man Technologie so einsetzten,
+            ist und die Arbeit erleichtert? Kann man Technologie so einsetzen,
             dass sie das Leben ihrer Nutzer:innen verbessert? Wie können
             Unternehmen durch gute User Experience ihre Kunden besser verstehen
             und nachhaltig wachsen? Diese Fragen treiben mich an.
@@ -28,7 +28,7 @@ export default function Info() {
           </p>
           <p className="copy mb-4">
             Schreiben Sie mir. Ich berate Sie gerne zu komplexen UX Fragen oder
-            verbessere einen besteheden Teil Ihres Produktes. Gerne sende ich
+            verbessere einen bestehenden Teil Ihres Produkts. Gerne sende ich
             Ihnen eine detailliertes Projektportfolio zu.
           </p>
           <div className="mb-20">
