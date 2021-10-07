@@ -29,9 +29,9 @@ export default function Info() {
           <p className="copy mb-4">
             Schreiben Sie mir. Ich berate Sie gerne zu komplexen UX Fragen oder
             verbessere einen bestehenden Teil Ihres Produkts. Gerne sende ich
-            Ihnen eine detailliertes Projektportfolio zu.
+            Ihnen ein detailliertes Projektportfolio zu.
           </p>
-          <div className="mb-20">
+          <div className="mb-4 md:mb-20">
             <AnchorLink
               path="mailto:hi@unfoldux.de?subject=Anfrage Projektportfolio"
               isExternal
