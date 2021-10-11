@@ -113,10 +113,10 @@ export default function Services() {
       </div>
       <div className="section">
         <h2 id="cro" className="h2">
-          Conversion Rate Optimierung und A/B Testing
+          Conversion Rate Optimization und A/B Testing
         </h2>
         <p className="copy content-block  mb-4">
-          Conversion Rate Optimierung (CRO) beschäftigt sich mit der Frage, wie
+          Conversion Rate Optimization (CRO) beschäftigt sich mit der Frage, wie
           effektiv ein Online-Shop, eine Website oder eine App das Verhalten der
           Nutzer:innen in Richtung einer gewünschten Aktion verändern kann. Wird
           die gewünschte Aktion ausgeführt, zählt das als Conversion. Das kann
